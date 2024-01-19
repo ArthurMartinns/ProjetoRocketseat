@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    max-width: 59.2rem;
+    margin: 0 auto 7.2rem;
+}
+main section img{
+    margin-bottom:72px;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+span {
+    color: #FF9900;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+    margin-bottom: 32px;
+}
+
+p {
+    font-family: 'Krona One',
+        sans-serif;
+        color: #7D7987;
+        line-height: 28px;
+        font-size:14px ;
+}
+span>a{
+    text-decoration: none;
+    color: #FF9900;
+}
+#balls{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+footer a{
+    margin-right: 22px;
+}
+footer{
+    margin-top: 50px;
+}
